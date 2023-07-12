@@ -1,3 +1,6 @@
 # Visual Odometry: Mapping Out the Camera Path
 
-![Pipeline](./assets/pipeline.png)
+![ex](./example.jpg)
+
+
+![path](./plot.jpg)
